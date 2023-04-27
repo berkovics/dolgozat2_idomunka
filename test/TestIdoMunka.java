@@ -46,4 +46,5 @@ public class TestIdoMunka {
         boolean actual = idoMunka.inputCheck("abcd");
         assertFalse(actual);
     }
+
 }
